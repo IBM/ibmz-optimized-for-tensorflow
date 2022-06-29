@@ -1,0 +1,22 @@
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro Prvotní verzi Program? (i125-5544-07).
+
+Název Programu (Èíslo Programu):
+IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+
+Na používání Programu Držitelem licence se vztahují následující standardní podmínky.
+
+Období testování
+
+Období testování zaèíná datem, které si Držitel sjedná dle podmínek této Smlouvy, a konèí k datu 2022-12-01.
+
+Upravitelný kód tøetí strany
+
+V pøípadném rozsahu, v jakém IBM v souboru OZNÁMENÍ oznaèí kód tøetí strany jako „Upravitelný kód tøetí strany“, IBM opravòuje Držitele licence, aby 1) upravil Upravitelný kód tøetí strany a 2) zpìtnì analyzoval moduly Programu, které jsou pøímo spojeny s Upravitelným kódem tøetí strany, ovšem za pøedpokladu, že k tomu dochází pouze pro úèely ladìní zmìn Držitele licence takového kódu tøetí strany. Pøípadné povinnosti servisu a podpory IBM se vztahují pouze na nezmìnìný Program.
+
+L/N:  L-BMYR-CEPKAE
+D/N:  L-BMYR-CEPKAE
+P/N:  L-BMYR-CEPKAE
+
+

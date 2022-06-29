@@ -1,0 +1,22 @@
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Ön Yayýn Düzeyleri Ýçin Uluslararasý Lisans Sözleþmesi (i125-5544-07) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Test Süresi
+
+Test süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 2022-12-01 tarihinde sona erer.
+
+Deðiþtirilebilir Üçüncü Kiþi Kodu
+
+IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
+
+L/N:  L-BMYR-CEPKAE
+D/N:  L-BMYR-CEPKAE
+P/N:  L-BMYR-CEPKAE
+
+

@@ -1,0 +1,22 @@
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Rilis Awal Program (i125-5544-07) akan berlaku.
+
+Nama Program (Nomor Program):
+IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+
+Syarat-syarat standar berikut ini berlaku untuk penggunaan Program oleh Pemegang Lisensi.
+
+Periode Pengujian
+
+Periode pengujian dimulai pada tanggal saat Pemegang Lisensi menyetujui syarat-syarat Perjanjian ini dan berakhir pada tanggal 2022-12-01.
+
+Kode Pihak Ketiga yang Dapat Dimodifikasi
+
+Apabila dalam file PEMBERITAHUAN, jika ada, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Penerima Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa balik modul Program yang berinteraksi secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa hal ini hanya untuk tujuan debugging modifikasi Penerima Lisensi untuk kode pihak ketiga tersebut. Kewajiban dukungan dan layanan IBM, jika ada, hanya berlaku untuk Program yang belum dimodifikasi.
+
+L/N:  L-BMYR-CEPKAE
+D/N:  L-BMYR-CEPKAE
+P/N:  L-BMYR-CEPKAE
+
+
