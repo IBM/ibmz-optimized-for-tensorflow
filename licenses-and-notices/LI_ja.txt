@@ -3,7 +3,7 @@
 以下の「プログラム」は、お客様と IBM とが事前に合意した「プログラム」の使用許諾条件に加えて、次のライセンス情報の使用条件に基づいて使用許諾されます。 お客様が「プログラム」の有効な使用許諾条件に事前に合意していない場合、 IBM プログラムの早期提供に関するご使用条件 (i125-5544-07) が適用されます。
 
 プログラム名 (プログラム番号):
-IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 以下の標準条件が、ライセンシーによる「プログラム」の使用に適用されます。
 

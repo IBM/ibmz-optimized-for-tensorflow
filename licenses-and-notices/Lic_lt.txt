@@ -3,7 +3,7 @@ LICENCIJOS INFORMACIJA
 Toliau nurodytos Programos licencijuojamos pagal ðias Licencijos informacijos sàlygas, kurios papildo Programos licencijos sàlygas, dël kuriø susitarë Klientas ir IBM. Jei Klientas anksèiau nëra sutikæs su Programai taikomomis licencijos sàlygomis, taikoma Iðankstinio programø leidimo tarptautinë licencinë sutartis (i125-5544-07).
 
 Programos pavadinimas (Programos numeris):
-IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 Ðios standartinës sàlygos taikomos Licenciato Programos naudojimui.
 

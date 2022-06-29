@@ -3,7 +3,7 @@ LÝSANS BÝLGÝLERÝ
 Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Programlarýn Ön Yayýn Düzeyleri Ýçin Uluslararasý Lisans Sözleþmesi (i125-5544-07) geçerli olur.
 
 Program Adý (Program Numarasý):
-IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
 

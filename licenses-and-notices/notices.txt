@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Optimized for TensorFlow 2.7 Tech Preview
+IBM Z Optimized for TensorFlow 1.0 Tech Preview
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details

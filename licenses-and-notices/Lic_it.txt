@@ -3,7 +3,7 @@ INFORMAZIONI RELATIVE ALLA LICENZA
 I Programmi elencati di seguito sono concessi in licenza in base alle seguenti clausole e condizioni License Information in aggiunta alle clausole della licenza del Programma precedentemente accettate dal Cliente e IBM. Se il Cliente non ha accettato precedentemente le clausole della licenza in vigore per il Programma, si applica Accordo Internazionale di Licenza per Release Preliminare di Programmi (i125-5544-07).
 
 Nome Programma (Numero Programma):
-IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 Le seguenti clausole standard si applicano all'utilizzo del Programma da parte del licenziatario.
 

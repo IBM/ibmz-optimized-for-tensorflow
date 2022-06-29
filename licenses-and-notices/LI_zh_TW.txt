@@ -3,7 +3,7 @@
 下列本程式之授權除係依客戶與 IBM 先前同意之授權條款外，並依下述授權手冊條款授權。若客戶先前就本程式未同意生效任何授權條款，則本程式適用 國際授權合約 - 測試版 (i125-5544-07)。
 
 程式名稱 (程式編號)：
-IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 下列標準條款適用於被授權人對本程式之使用。
 

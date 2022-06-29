@@ -3,7 +3,7 @@ INFORMACJE LICENCYJNE
 Programy wymienione poni¿ej s¹ licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi¹ uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Jeœli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj¹ warunki licencji Miêdzynarodowa Umowa Licencyjna na Wstêpne Wydanie Programów (i125-5544-07).
 
 Nazwa Programu (Numer Programu):
-IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 Poni¿sze standardowe warunki maj¹ zastosowanie do u¿ywania Programu przez Licencjobiorcê.
 

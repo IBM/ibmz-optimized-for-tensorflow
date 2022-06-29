@@ -3,7 +3,7 @@
 아래 나열된 프로그램은 이전에 고객과 IBM이 합의한 프로그램 라이센스 조건에 추가하여 다음 라이센스 정보 이용 약관에 의거하여 라이센스가 부여됩니다. 이전에 고객이 해당 프로그램에 적용되는 라이센스 조항에 동의하지 않은 경우 프로그램 초기 릴리스에 관한 라이센스 계약(i125-5544-07)이(가) 적용됩니다.
 
 프로그램 이름 (프로그램 번호:
-IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 라이센스 사용자가 본 프로그램을 사용하는 경우 다음 표준 조항이 적용됩니다.
 

@@ -3,7 +3,7 @@ LICENÈNÍ INFORMACE
 Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro Prvotní verzi Program? (i125-5544-07).
 
 Název Programu (Èíslo Programu):
-IBM Z Optimized for TensorFlow 2.7 Tech Preview (Early Release)
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 Na používání Programu Držitelem licence se vztahují následující standardní podmínky.
 
