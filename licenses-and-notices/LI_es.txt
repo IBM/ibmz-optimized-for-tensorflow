@@ -1,0 +1,22 @@
+INFORMACIÓN SOBRE LICENCIA
+
+Los Programas que se enumeran a continuación se licencian bajo los siguientes términos y condiciones de Licencia, además de los términos de licencia del Programa acordados previamente entre el Cliente e IBM. Si el Cliente no ha aceptado con anterioridad los términos de la licencia aplicables al Programa, se aplicará Acuerdo Internacional de Licencia para la Distribución Previa de Programas (i125-5544-07).
+
+Nombre de Programa (Número de Programa):
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
+
+Los términos estándar siguientes se aplican al uso por parte del Licenciatario del Programa.
+
+Periodo de Prueba
+
+El periodo de prueba comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará el 2022-12-01.
+
+Código de terceros modificable
+
+Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
+
+L/N:  L-BMYR-CEPKAE
+D/N:  L-BMYR-CEPKAE
+P/N:  L-BMYR-CEPKAE
+
+
