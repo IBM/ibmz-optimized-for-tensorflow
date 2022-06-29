@@ -86,7 +86,7 @@ To manually enforce which execution path should be followed, you may change the 
 *Note. If problems are encountered when training a model, please `export ZAIUDEVICES=0` then try training your model.*
 
 ## Using the Code Samples
-- Documentation for our code samples can be found [here](https://github.com/IBM/ibmz-optimized-for-tensorflow/tree/main/samples).
+- Documentation for our code samples can be found [here](samples).
 
 ## Logging Levels
 
@@ -154,7 +154,7 @@ Contact us directly at [aionz@us.ibm.com](aionz@us.ibm.com) and become a member 
 - Open-Beta (Early Release) license agreement can be found [here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-BMYR-CEPKAE)
 - The registered trademark Linux® is used pursuant to a sublicense from the Linux Foundation, the exclusive licensee of Linus Torvalds, owner of the mark on a worldwide basis.
 - TensorFlow, the TensorFlow logo and any related marks are trademarks of Google Inc
-- Additional license and notice files are within the `licenses-and-notices` directory of this repository. You may access the folder [here](https://github.com/IBM/ibmz-optimized-for-tensorflow/tree/main/licenses-and-notices).
+- Additional license and notice files are within the `licenses-and-notices` directory of this repository. You may access the folder [here](licenses-and-notices).
 
 ## Disclaimer
 
