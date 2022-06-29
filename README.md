@@ -97,7 +97,7 @@ Each logged message has an associated logging level that categorizes the message
 
 ### DTLOG_LEVEL
 
-IBM Z Optimized for TensorFlow includes `DTLOG_LEVEL` that produces logging messages regarding device support for the IBM Integrated Accelerator for AI. This logging information should be used when [working with us](#Working-with-us).
+IBM Z Optimized for TensorFlow includes `DTLOG_LEVEL` that produces logging messages regarding support for the IBM Integrated Accelerator for AI. This logging information should be used when [working with us](#Working-with-us).
 
 | Level      | Description |
 | -----------| ----------- |
@@ -136,9 +136,9 @@ If an in-use error occurs while attempting to delete the container image, use th
 - Q: Why are there multiple TensorFlow container images in the IBM Z and LinuxONE Container Registry?
   - A: You may have seen multiple TensorFlow container images in IBM Z and LinuxONE Container Registry, namely [ibmz/tensorflow](https://ibm.github.io/ibm-z-oss-hub/containers/tensorflow.html) and [ibmz/ibmz-optimized-for-tensorflow](https://ibm.github.io/ibm-z-oss-hub/containers/ibmz-optimized-for-tensorflow.html). 
   
-    - The **"ibmz/tensorflow"** container image does not have device support for the IBM Integrated Accelerator for AI. The "ibmz/tensorflow" only transparently targets the CPU. It does not have any optimizations referenced in this document. 
+    - The **"ibmz/tensorflow"** container image does not have support for the IBM Integrated Accelerator for AI. The "ibmz/tensorflow" only transparently targets the CPU. It does not have any optimizations referenced in this document. 
     
-    - The **"ibmz/ibmz-optimized-for-tensorflow"** container image includes device support for TensorFlow core 2.7 graph execution to transparently target the IBM Integrated Accelerator for AI. The "ibmz/ibmz-optimized-for-tensorflow" container image also allows it's users to transparently target the CPU. This container image contains the optimizations referenced in this document and has been released in the Open-Beta program for IBM Z Optimized for TensorFlow.
+    - The **"ibmz/ibmz-optimized-for-tensorflow"** container image includes support for TensorFlow core 2.7 graph execution to transparently target the IBM Integrated Accelerator for AI. The "ibmz/ibmz-optimized-for-tensorflow" container image also allows it's users to transparently target the CPU. This container image contains the optimizations referenced in this document and has been released in the Open-Beta program for IBM Z Optimized for TensorFlow.
 
 - Q: Where can I run the IBM Z Optimized for TensorFlow container image?
   - A: You may run the IBM Z Optimized for TensorFlow container image on IBM Linux on Z or IBM® z/OS® Container Extensions (IBM zCX).
