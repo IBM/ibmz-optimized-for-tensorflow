@@ -15,7 +15,7 @@
 
 ## Overview
 
-Welcome to our Open-Beta program for IBM Z Optimized for TensorFlow. 
+Welcome to our Open-Beta program for [IBM Z Optimized for TensorFlow](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/prashantha-subbarao/2022/06/30/ibm-z-optimized-for-tensorflow). 
 
 [TensorFlow](https://www.TensorFlow.org/) is an open source machine learning framework. It has a comprehensive set of tools that enable model development, training, and inference. It also features a rich, robust ecosystem.
 
@@ -130,7 +130,7 @@ If an in-use error occurs while attempting to delete the container image, use th
 *Note. As a reminder, if you are Podman user, please replace `docker` with `podman` in the example code snippets provided above.*
 
 ## Frequently Asked Questions
-- Q: Where can I get the TensorFlow container image?
+- Q: Where can I get the IBM Z Optimized for TensorFlow container image?
   - A: Please visit this link [here](https://ibm.github.io/ibm-z-oss-hub/containers/ibmz-optimized-for-tensorflow.html).
 
 - Q: Why are there multiple TensorFlow container images in the IBM Z and LinuxONE Container Registry?
