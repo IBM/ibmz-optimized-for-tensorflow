@@ -54,7 +54,7 @@ IMAGE_ID=icr.io/ibmz/ibmz-optimized-for-tensorflow:1.0
 
 # Share samples with a bind mount. Adjust the paths if needed
 # for the download directory you used.
-docker run -it -v ~/ibmz-optimized-for-tensorflow/samples:/samples:z $IMAGE_ID bash
+docker run -it -v ~/ibmz-optimized-for-tensorflow/samples:/samples:z $IMAGE_ID /bin/bash
 ```
 
 Another way is to use `docker cp` to copy the files into the container. For this technique, the container must already be running via `docker run`. You might need to open a second shell to the host system, or use <kbd>Ctrl</kbd><kbd>P</kbd><kbd>Ctrl</kbd><kbd>Q</kbd> to detach from the running container to get back to the host shell.
