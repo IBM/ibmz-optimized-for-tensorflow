@@ -31,10 +31,10 @@ Once credentials to `icr.io` are obtained and have been used to login to the reg
 
 ```bash
 # docker or podman*
-docker pull icr.io/ibmz/ibmz-optimized-for-tensorflow:1.01
+docker pull icr.io/ibmz/ibmz-optimized-for-tensorflow:1.02
 ```
 
-In the `docker pull` command, the version specified above is `1.01`. This is based on the version available in the IBM Z and LinuxONE Container Registry. 
+In the `docker pull` command, the version specified above is `1.02`. This is based on the version available in the IBM Z and LinuxONE Container Registry. 
 
 In the event you need to obtain a new version of the container image, or you want to view additional information about the container image, you may view that information [here](https://ibm.github.io/ibm-z-oss-hub/containers/ibmz-optimized-for-tensorflow.html).
 
