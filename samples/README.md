@@ -50,7 +50,7 @@ One way of making host files available inside of a container is a [bind mount](h
 ```bash
 # The README files in the samples will use this variable when
 # referring to the container image.
-IMAGE_ID=icr.io/ibmz/ibmz-optimized-for-tensorflow:1.01
+IMAGE_ID=icr.io/ibmz/ibmz-optimized-for-tensorflow:1.02
 
 # Share samples with a bind mount. Adjust the paths if needed
 # for the download directory you used.
