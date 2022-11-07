@@ -9,14 +9,14 @@ Le seguenti clausole standard si applicano all'utilizzo del Programma da parte d
 
 Periodo di Test
 
-Il periodo di test ha inizio alla data in cui il licenziatario accetta le clausole del presente Accordo e termina il 2022-12-01.
+Il periodo di test ha inizio alla data in cui il licenziatario accetta le clausole del presente Accordo e termina il 2023-01-31.
 
 Codice di Terze Parti Modificabile
 
 Se e nei limiti in cui, nei file NOTICES, IBM dovesse identificare codice di terze parti come "Codice di Terze Parti Modificabile", IBM autorizza il Licenziatario a 1) modificare il Codice di Terze Parti Modificabile e 2) eseguire il reverse engineer dei moduli del Programma che si interfacciano direttamente con il Codice di Terze Parti Modificabile a condizione che sia solo allo scopo di eseguire il debug delle modifiche del Licenziatario per tale codice di terze parti. Gli obblighi di servizio e supporto di IBM, se esistenti, si applicano solo al Programma non modificato.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

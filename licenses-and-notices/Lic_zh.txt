@@ -9,16 +9,16 @@ IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 ²âÊÔÆÚÏÞ
 
-²âÊÔÆÚÏÞÓÚ±»Ðí¿É·½Í¬Òâ±¾Ð­ÒéÌõ¿îÖ®ÈÕ¿ªÊ¼£¬ÓÚ 2022-12-01 ÖÕÖ¹¡£
+²âÊÔÆÚÏÞÓÚ±»Ðí¿É·½Í¬Òâ±¾Ð­ÒéÌõ¿îÖ®ÈÕ¿ªÊ¼£¬ÓÚ 2023-01-31 ÖÕÖ¹¡£
 
 ¿ÉÐÞ¸ÄµÄµÚÈý·½´úÂë
 
 ÔÚÄ³ÖÖ³Ì¶ÈÉÏ£¬Èç¹ûÔÚ"µÚÈý·½ÉùÃ÷"ÖÐ£¬IBM ½«µÚÈý·½´úÂë±êÊ¶Îª"¿ÉÐÞ¸ÄµÚÈý·½´úÂë"£¬ÄÇÃ´ IBM ÊÚÈ¨±»Ðí¿É·½ 1) ÐÞ¸Ä¿ÉÐÞ¸ÄµÚÈý·½´úÂë£¬ÒÔ¼° 2) ¶ÔÖ±½ÓÓë¿ÉÐÞ¸ÄµÚÈý·½´úÂë»¥¶¯µÄ³ÌÐòÄ£¿é½øÐÐ·´Ïò¹¤³ÌÉè¼Æ£¬Ç°ÌáÊÇÆäÄ¿µÄ½öÎªÁËµ÷ÊÔ±»Ðí¿É·½¶Ô´ËÀàµÚÈý·½´úÂëµÄÐÞ¸Ä¡£ IBM µÄ·þÎñºÍÖ§³ÖÒåÎñ£¨ÈçÓÐ£©½öÊÊÓÃÓÚÎ´¾­ÐÞ¸ÄµÄ³ÌÐò¡£
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 
 ³ÌÐòÔçÆÚ·¢²¼µÄ¹ú¼ÊÐí¿ÉÐ­Òé
 
@@ -292,7 +292,7 @@ k. IBM ¿ÉÒÔÊ¹ÓÃÈ«Çò·¶Î§ÄÚµÄÈËÁ¦ºÍ×ÊÔ´£¨°üÀ¨µÚÈý·½³Ð°üÉÌ£©À´Ö§³Ö³ÌÐòºÍ³ÌÐòÖ§³ÖµÄ½
 
 ÔÚ a ¶ÎµÚÒ»¾äÖÐ¡°ËùÖ§¸¶½ð¶î¡±Ò»´ÊÇ°²åÈëÒÔÏÂÄÚÈÝ£º
 
-ÔÚ±ÈÀûÊ±¡¢·¨¹ú¡¢µÂ¹ú¡¢Òâ´óÀû¡¢Â¬É­±¤¡¢Âí¶úËû¡¢ÆÏÌÑÑÀºÍÎ÷°àÑÀ£ºÒÔÏÂÊö½Ï¸ßÕßÎª×¼£¬?500,000£¨ÎåÊ®ÍòÅ·Ôª£©»ò
+ÔÚ±ÈÀûÊ±¡¢·¨¹ú¡¢µÂ¹ú¡¢Òâ´óÀû¡¢Â¬É­±¤¡¢Âí¶úËû¡¢ÆÏÌÑÑÀºÍÎ÷°àÑÀ£ºÒÔÏÂÊö½Ï¸ßÕßÎª×¼£¬EUR500,000£¨ÎåÊ®ÍòÅ·Ôª£©»ò
 
 ÔÚ°®¶ûÀ¼ºÍÓ¢¹ú£ºµÄ 125%
 
@@ -437,3 +437,4 @@ k. IBM ¿ÉÒÔÊ¹ÓÃÈ«Çò·¶Î§ÄÚµÄÈËÁ¦ºÍ×ÊÔ´£¨°üÀ¨µÚÈý·½³Ð°üÉÌ£©À´Ö§³Ö³ÌÐòºÍ³ÌÐòÖ§³ÖµÄ½
 ÔÚÂÞÂíÄáÑÇ£º±»Ðí¿É·½Ã÷È·½ÓÊÜÒÔÏÂ±ê×¼Ìõ¿î£¬¸ù¾Ý¡¶ÂÞÂíÄáÑÇÃñ·¨µä¡·µÚ 1203 ÌõµÄ¹æ¶¨£¬ÕâÐ©Ìõ¿î¿ÉÒÔ±»ÊÓÎª¡°·Ç³£¹æÌõ¿î¡±£ºÌõ¿î 2¡¢4¡¢5 ºÍ 8j¡£±»Ðí¿É·½ÌØ´ËÈ·ÈÏ£¬ÆäÒÑ³ä·ÖÖªÏþÁË±¾Ð­ÒéµÄËùÓÐ¹æ¶¨£¬°üÀ¨ÉÏÊöÌõ¿î£¬ÕýÈ··ÖÎöºÍÀí½âÁËÕâÐ©¹æ¶¨£¬²¢ÇÒÒÑ¾ÍÃ¿¸öÌõ¿îµÄÄÚÈÝ½øÐÐ¹ýÐ­ÉÌ¡£
 
 i125-5544-07 (10-2021)
+

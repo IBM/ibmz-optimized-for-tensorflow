@@ -9,14 +9,14 @@ Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerli
 
 Test Süresi
 
-Test süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 2022-12-01 tarihinde sona erer.
+Test süresi, Lisans Alan Tarafýn bu Sözleþmenin koþullarýný kabul ettiði tarihte baþlar ve 2023-01-31 tarihinde sona erer.
 
 Deðiþtirilebilir Üçüncü Kiþi Kodu
 
 IBM'in, varsa, NOTICES dosyasýnda üçüncü kiþi kodunu "Deðiþtirilebilir Üçüncü Kiþi Kodu" olarak tanýmladýðý ölçüde, IBM, Lisans Alan Tarafa 1) Deðiþtirilebilir Üçüncü Kiþi Kodunu deðiþtirme ve 2) yalnýzca Lisans Alan Tarafýn anýlan üçüncü kiþi kodu üzerinde yaptýðý deðiþikliklerinden kaynaklanan hatalarýn ayýklanmasý amacýyla, Deðiþtirilebilir Üçüncü Kiþi Kodu ile doðrudan arayüzü olan Program modülleri üzerinde tersine mühendislik gerçekleþtirme yetkisi verir. Varsa, IBM'in hizmet ve destek yükümlülükleri yalnýzca deðiþiklik yapýlmamýþ Program için geçerlidir.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

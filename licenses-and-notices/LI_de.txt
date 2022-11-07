@@ -9,14 +9,14 @@ Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizen
 
 Erprobungszeitraum
 
-Der Erprobungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet am 2022-12-01.
+Der Erprobungszeitraum beginnt mit dem Datum, an dem der Lizenznehmer den Bedingungen dieser Vereinbarung zustimmt, und endet am 2023-01-31.
 
 Modifizierbarer Code einer Drittpartei
 
 Soweit IBM in der NOTICES-Datei den Code einer Drittpartei als "Modifizierbaren Code einer Drittpartei" bezeichnet, ist der Lizenznehmer berechtigt, 1) den Modifizierbaren Code einer Drittpartei zu modifizieren und 2) die Programmmodule, die direkt mit dem Modifizierbaren Code einer Drittpartei verbunden sind, zurückzuentwickeln, vorausgesetzt, dies geschieht ausschließlich, um die Modifikationen des Lizenznehmers an einem solchen Code einer Drittpartei zu debuggen. Die Service- und Unterstützungsverpflichtungen von IBM gelten, sofern vorhanden, nur für das unmodifizierte Programm.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

@@ -9,14 +9,14 @@ The following standard terms apply to Licensee's use of the Program.
 
 Test Period
 
-The test period begins on the date that Licensee agrees to the terms of this Agreement and ends on 2022-12-01.
+The test period begins on the date that Licensee agrees to the terms of this Agreement and ends on 2023-01-31.
 
 Modifiable Third Party Code
 
 To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

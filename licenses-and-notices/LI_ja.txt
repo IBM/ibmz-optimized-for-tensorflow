@@ -1,22 +1,22 @@
-ƒ‰ƒCƒZƒ“ƒXî•ñ
+¥é¥¤¥»¥ó¥¹¾ðÊó
 
-ˆÈ‰º‚ÌuƒvƒƒOƒ‰ƒ€v‚ÍA‚¨‹q—l‚Æ IBM ‚Æ‚ªŽ–‘O‚É‡ˆÓ‚µ‚½uƒvƒƒOƒ‰ƒ€v‚ÌŽg—p‹–‘øðŒ‚É‰Á‚¦‚ÄAŽŸ‚Ìƒ‰ƒCƒZƒ“ƒXî•ñ‚ÌŽg—pðŒ‚ÉŠî‚Ã‚¢‚ÄŽg—p‹–‘ø‚³‚ê‚Ü‚·B ‚¨‹q—l‚ªuƒvƒƒOƒ‰ƒ€v‚Ì—LŒø‚ÈŽg—p‹–‘øðŒ‚ÉŽ–‘O‚É‡ˆÓ‚µ‚Ä‚¢‚È‚¢ê‡A IBM ƒvƒƒOƒ‰ƒ€‚Ì‘Šú’ñ‹Ÿ‚ÉŠÖ‚·‚é‚²Žg—pðŒ (i125-5544-07) ‚ª“K—p‚³‚ê‚Ü‚·B
+°Ê²¼¤Î¡Ö¥×¥í¥°¥é¥à¡×¤Ï¡¢¤ªµÒÍÍ¤È IBM ¤È¤¬»öÁ°¤Ë¹ç°Õ¤·¤¿¡Ö¥×¥í¥°¥é¥à¡×¤Î»ÈÍÑµöÂú¾ò·ï¤Ë²Ã¤¨¤Æ¡¢¼¡¤Î¥é¥¤¥»¥ó¥¹¾ðÊó¤Î»ÈÍÑ¾ò·ï¤Ë´ð¤Å¤¤¤Æ»ÈÍÑµöÂú¤µ¤ì¤Þ¤¹¡£ ¤ªµÒÍÍ¤¬¡Ö¥×¥í¥°¥é¥à¡×¤ÎÍ­¸ú¤Ê»ÈÍÑµöÂú¾ò·ï¤Ë»öÁ°¤Ë¹ç°Õ¤·¤Æ¤¤¤Ê¤¤¾ì¹ç¡¢ IBM ¥×¥í¥°¥é¥à¤ÎÁá´üÄó¶¡¤Ë´Ø¤¹¤ë¤´»ÈÍÑ¾ò·ï (i125-5544-07) ¤¬Å¬ÍÑ¤µ¤ì¤Þ¤¹¡£
 
-ƒvƒƒOƒ‰ƒ€–¼ (ƒvƒƒOƒ‰ƒ€”Ô†):
+¥×¥í¥°¥é¥àÌ¾ (¥×¥í¥°¥é¥àÈÖ¹æ):
 IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
-ˆÈ‰º‚Ì•W€ðŒ‚ªAƒ‰ƒCƒZƒ“ƒV[‚É‚æ‚éuƒvƒƒOƒ‰ƒ€v‚ÌŽg—p‚É“K—p‚³‚ê‚Ü‚·B
+°Ê²¼¤ÎÉ¸½à¾ò·ï¤¬¡¢¥é¥¤¥»¥ó¥·¡¼¤Ë¤è¤ë¡Ö¥×¥í¥°¥é¥à¡×¤Î»ÈÍÑ¤ËÅ¬ÍÑ¤µ¤ì¤Þ¤¹¡£
 
-ƒeƒXƒgŠúŠÔ
+¥Æ¥¹¥È´ü´Ö
 
-ƒeƒXƒgŠúŠÔ‚ÍAƒ‰ƒCƒZƒ“ƒV[‚ª–{Žg—pðŒ‚É“¯ˆÓ‚·‚é“ú‚ÉŠJŽn‚µA2022-12-01 “ú‚ÉI—¹‚µ‚Ü‚·B
+¥Æ¥¹¥È´ü´Ö¤Ï¡¢¥é¥¤¥»¥ó¥·¡¼¤¬ËÜ»ÈÍÑ¾ò·ï¤ËÆ±°Õ¤¹¤ëÆü¤Ë³«»Ï¤·¡¢2023-01-31 Æü¤Ë½ªÎ»¤·¤Þ¤¹¡£
 
-C³‰Â”\‘æŽOŽÒƒR[ƒh
+½¤Àµ²ÄÇ½Âè»°¼Ô¥³¡¼¥É
 
-u“Á‹LŽ–€v‚Ìƒtƒ@ƒCƒ‹‚Ì’†‚ÅIBM‚ª‘æŽOŽÒƒR[ƒh‚ðuC³‰Â”\‘æŽOŽÒƒR[ƒhv‚Æ“Á’è‚·‚éê‡AIBM‚ÍAƒ‰ƒCƒZƒ“ƒV[‚É‘Î‚µ‚ÄA1)uC³‰Â”\‘æŽOŽÒƒR[ƒhv‚ðC³‚·‚é‚±‚ÆA‚¨‚æ‚Ñ 2) “–ŠY‘æŽOŽÒƒR[ƒh‚É‘Î‚·‚éƒ‰ƒCƒZƒ“ƒV[‚É‚æ‚éC³‚ðƒfƒoƒbƒO‚·‚é‚±‚Æ‚ð–Ú“I‚Æ‚·‚éê‡‚ÉŒÀ‚èuC³‰Â”\‘æŽOŽÒƒR[ƒhv‚Æ’¼ÚƒCƒ“ƒ^[ƒtƒF[ƒX‚ð‚Æ‚éuƒvƒƒOƒ‰ƒ€v‚Ìƒ‚ƒWƒ…[ƒ‹‚ÉƒŠƒo[ƒXEƒGƒ“ƒWƒjƒAƒŠƒ“ƒO‚ðs‚¤‚±‚Æ‚ð‹–‰Â‚µ‚Ü‚·B IBM ‚ÉƒT[ƒrƒX‚¨‚æ‚ÑƒTƒ|[ƒg‚Ì‹`–±‚ª‚ ‚éê‡‚ÍAC³‚³‚ê‚Ä‚¢‚È‚¢uƒvƒƒOƒ‰ƒ€v‚É‘Î‚µ‚Ä‚Ì‚Ý“K—p‚³‚ê‚Ü‚·B
+¡ÖÆÃµ­»ö¹à¡×¤Î¥Õ¥¡¥¤¥ë¤ÎÃæ¤ÇIBM¤¬Âè»°¼Ô¥³¡¼¥É¤ò¡Ö½¤Àµ²ÄÇ½Âè»°¼Ô¥³¡¼¥É¡×¤ÈÆÃÄê¤¹¤ë¾ì¹ç¡¢IBM¤Ï¡¢¥é¥¤¥»¥ó¥·¡¼¤ËÂÐ¤·¤Æ¡¢1)¡Ö½¤Àµ²ÄÇ½Âè»°¼Ô¥³¡¼¥É¡×¤ò½¤Àµ¤¹¤ë¤³¤È¡¢¤ª¤è¤Ó 2) Åö³ºÂè»°¼Ô¥³¡¼¥É¤ËÂÐ¤¹¤ë¥é¥¤¥»¥ó¥·¡¼¤Ë¤è¤ë½¤Àµ¤ò¥Ç¥Ð¥Ã¥°¤¹¤ë¤³¤È¤òÌÜÅª¤È¤¹¤ë¾ì¹ç¤Ë¸Â¤ê¡Ö½¤Àµ²ÄÇ½Âè»°¼Ô¥³¡¼¥É¡×¤ÈÄ¾ÀÜ¥¤¥ó¥¿¡¼¥Õ¥§¡¼¥¹¤ò¤È¤ë¡Ö¥×¥í¥°¥é¥à¡×¤Î¥â¥¸¥å¡¼¥ë¤Ë¥ê¥Ð¡¼¥¹¡¦¥¨¥ó¥¸¥Ë¥¢¥ê¥ó¥°¤ò¹Ô¤¦¤³¤È¤òµö²Ä¤·¤Þ¤¹¡£ IBM ¤Ë¥µ¡¼¥Ó¥¹¤ª¤è¤Ó¥µ¥Ý¡¼¥È¤ÎµÁÌ³¤¬¤¢¤ë¾ì¹ç¤Ï¡¢½¤Àµ¤µ¤ì¤Æ¤¤¤Ê¤¤¡Ö¥×¥í¥°¥é¥à¡×¤ËÂÐ¤·¤Æ¤Î¤ßÅ¬ÍÑ¤µ¤ì¤Þ¤¹¡£
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

@@ -9,14 +9,14 @@ IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 Bandymo laikotarpis
 
-Bandymo laikotarpis prasideda nuo Licenciato sutikimo su ðios Sutarties sàlygomis dienos ir baigiasi 2022-12-01.
+Bandymo laikotarpis prasideda nuo Licenciato sutikimo su ðios Sutarties sàlygomis dienos ir baigiasi 2023-01-31.
 
 Keièiamas treèiosios ðalies kodas
 
 Jei PRANEÐIMØ faile IBM treèiosios ðalies kodà atpaþásta kaip modifikuojamà treèiosios ðalies kodà, IBM leidþia Licenciatui 1) modifikuoti modifikuojamà treèiosios ðalies kodà ir 2) nukopijuoti Programos modulius, kurie tiesiogiai siejasi su modifikuojamu treèiosios ðalies kodu, su sàlyga, kad tai daroma tik Licenciato atliktø tokio treèiosios ðalies kodo modifikacijø klaidø ðalinimo tikslais. IBM aptarnavimo ir palaikymo ásipareigojimai, jei tokiø yra, taikomi tik nemodifikuotai Programai.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 
