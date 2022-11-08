@@ -9,16 +9,16 @@ Los términos estándar siguientes se aplican al uso por parte del Licenciatario d
 
 Periodo de Prueba
 
-El periodo de prueba comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará el 2022-12-01.
+El periodo de prueba comenzará en la fecha en que el Licenciatario acepte los términos de este Acuerdo y finalizará el 2023-01-31.
 
 Código de terceros modificable
 
 Si en el archivo AVISOS IBM identifica código de terceros como "Código de Terceros Modificable", IBM autoriza al Titular de la Licencia 1) modificar el Código de Terceros Modificable y a 2) realizar ingeniería inversa de los módulos del Programa que interactúan directamente con el Código de Terceros Modificable proporcionado que es solo para fines de depuración de las modificaciones del Titular de la Licencia de dicho código de terceros. Las obligaciones de servicio y soporte de IBM, si existen, se aplican solo al Programa no modificado.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 
 Acuerdo Internacional de Licencia para la Distribución Previa de Programas
 
@@ -292,7 +292,7 @@ Apartado 4. Responsabilidad
 
 En el párrafo a, en la primera oración inserte lo siguiente antes de las palabras "la cantidad pagada":
 
-En Bélgica, Francia, Alemania, Italia, Luxemburgo, Malta, Portugal y España: el importe mayor indicado, ya sea 500.000 € (quinientos mil euros) o
+En Bélgica, Francia, Alemania, Italia, Luxemburgo, Malta, Portugal y España: el importe mayor indicado, ya sea 500.000 ¤ (quinientos mil euros) o
 
 En Irlanda y Reino Unido: 125% de
 
@@ -437,3 +437,4 @@ En República Checa: el Licenciatario acepta expresamente las condiciones de este
 En Rumanía: el Licenciatario acepta expresamente las siguientes cláusulas estándar que pueden considerarse "cláusulas inusuales" de acuerdo con las disposiciones del artículo 1203 del Código Civil rumano: cláusulas 2, 4, 5, 8j. El Licenciatario acepta por el presente documento que fue lo suficientemente informado de todas las disposiciones de este Acuerdo, incluidas las cláusulas mencionadas anteriormente, que analizó y comprendió correctamente dichas disposiciones y que tuvo la oportunidad de negociar las condiciones de cada cláusula.
 
 i125-5544-07 (10-2021)
+

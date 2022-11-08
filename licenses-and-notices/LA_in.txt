@@ -270,7 +270,7 @@ Pasal 4. Tanggung Jawab
 
 Pada ayat a, di kalimat pertama, masukkan hal berikut sebelum kata "jumlah yang dibayarkan":
 
-Di Belgia, Prancis, Jerman, Italia, Luksemburg, Malta, Portugal, dan Spanyol: lebih besar dari €500.000 (lima ratus ribu euro) atau
+Di Belgia, Prancis, Jerman, Italia, Luksemburg, Malta, Portugal, dan Spanyol: lebih besar dari ¤500.000 (lima ratus ribu euro) atau
 
 Di Irlandia dan Inggris Raya: 125% dari
 
@@ -378,7 +378,7 @@ Di Spanyol: IBM akan mematuhi permintaan untuk mengakses, memperbarui, atau meng
 
 Pada ayat j, tambahkan di akhir ayat:
 
-Di Republik Ceko: Sesuai dengan Pasal 1801 of Undang-Undang No. 89/2012 Coll. (“Hukum Perdata” (Civil Code)), Pasal 1799 dan Pasal 1800 pada Hukum Perdata sebagaimana yang diamendemen, tidak berlaku untuk transaksi berdasarkan Perjanjian ini. Pemegang Lisensi menerima risiko perubahan kondisi berdasarkan Pasal 1765 pada KUH Perdata.
+Di Republik Ceko: Sesuai dengan Pasal 1801 of Undang-Undang No. 89/2012 Coll. (?Hukum Perdata? (Civil Code)), Pasal 1799 dan Pasal 1800 pada Hukum Perdata sebagaimana yang diamendemen, tidak berlaku untuk transaksi berdasarkan Perjanjian ini. Pemegang Lisensi menerima risiko perubahan kondisi berdasarkan Pasal 1765 pada KUH Perdata.
 
 Pada ayat j:
 

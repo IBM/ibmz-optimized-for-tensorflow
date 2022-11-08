@@ -1,0 +1,22 @@
+LICENCIJOS INFORMACIJA
+
+Toliau nurodytos Programos licencijuojamos pagal ¹ias Licencijos informacijos s±lygas, kurios papildo Programos licencijos s±lygas, dìl kuriù susitarì Klientas ir IBM. Jei Klientas anksèiau nìra sutikês su Programai taikomomis licencijos s±lygomis, taikoma I¹ankstinio programù leidimo tarptautinì licencinì sutartis (i125-5544-07).
+
+Programos pavadinimas (Programos numeris):
+IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
+
+©ios standartinìs s±lygos taikomos Licenciato Programos naudojimui.
+
+Bandymo laikotarpis
+
+Bandymo laikotarpis prasideda nuo Licenciato sutikimo su ¹ios Sutarties s±lygomis dienos ir baigiasi 2023-01-31.
+
+Keièiamas treèiosios ¹alies kodas
+
+Jei PRANE©IMÙ faile IBM treèiosios ¹alies kod± atpa¾çsta kaip modifikuojam± treèiosios ¹alies kod±, IBM leid¾ia Licenciatui 1) modifikuoti modifikuojam± treèiosios ¹alies kod± ir 2) nukopijuoti Programos modulius, kurie tiesiogiai siejasi su modifikuojamu treèiosios ¹alies kodu, su s±lyga, kad tai daroma tik Licenciato atliktù tokio treèiosios ¹alies kodo modifikacijù klaidù ¹alinimo tikslais. IBM aptarnavimo ir palaikymo çsipareigojimai, jei tokiù yra, taikomi tik nemodifikuotai Programai.
+
+
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
+

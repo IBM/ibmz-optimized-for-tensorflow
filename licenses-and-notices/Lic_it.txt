@@ -9,16 +9,16 @@ Le seguenti clausole standard si applicano all'utilizzo del Programma da parte d
 
 Periodo di Test
 
-Il periodo di test ha inizio alla data in cui il licenziatario accetta le clausole del presente Accordo e termina il 2022-12-01.
+Il periodo di test ha inizio alla data in cui il licenziatario accetta le clausole del presente Accordo e termina il 2023-01-31.
 
 Codice di Terze Parti Modificabile
 
 Se e nei limiti in cui, nei file NOTICES, IBM dovesse identificare codice di terze parti come "Codice di Terze Parti Modificabile", IBM autorizza il Licenziatario a 1) modificare il Codice di Terze Parti Modificabile e 2) eseguire il reverse engineer dei moduli del Programma che si interfacciano direttamente con il Codice di Terze Parti Modificabile a condizione che sia solo allo scopo di eseguire il debug delle modifiche del Licenziatario per tale codice di terze parti. Gli obblighi di servizio e supporto di IBM, se esistenti, si applicano solo al Programma non modificato.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 
 Accordo Internazionale di Licenza per Release Preliminare di Programmi
 
@@ -84,11 +84,11 @@ c. Il Licenziatario ordinerà e corrisponderà prontamente gli addebiti, alle tari
 
 4. Responsabilità
 
-a. La responsabilità complessiva di IBM per tutte le azioni relative al presente Accordo sarà limitata ai soli danni diretti effettivi, subiti dal Licenziatario, fino ad un ammontare pari al maggiore importo tra: i) U.S. $10.000,00 (o l'equivalente in valuta locale); o ii) il totale degli importi pagati (se si tratta di canoni ricorrenti, il limite massimo sarà pari all'ammontare equivalente ai canoni pagati per 12 mesi) per le titolarità del Programma che è oggetto dell’azione, indipendentemente dalle ragioni che fondano l'azione stessa. In nessun caso IBM sarà responsabile per danni speciali, incidentali, punitivi, indiretti o per danni economici di tipo consequenziale, mancato guadagno, o perdite di profitto, di opportunità commerciali, di fatturato o di risparmi. Queste limitazioni si applicano complessivamente a IBM, alle relative consociate, subappaltatori e fornitori.
+a. La responsabilità complessiva di IBM per tutte le azioni relative al presente Accordo sarà limitata ai soli danni diretti effettivi, subiti dal Licenziatario, fino ad un ammontare pari al maggiore importo tra: i) U.S. $10.000,00 (o l'equivalente in valuta locale); o ii) il totale degli importi pagati (se si tratta di canoni ricorrenti, il limite massimo sarà pari all'ammontare equivalente ai canoni pagati per 12 mesi) per le titolarità del Programma che è oggetto dell'azione, indipendentemente dalle ragioni che fondano l'azione stessa. In nessun caso IBM sarà responsabile per danni speciali, incidentali, punitivi, indiretti o per danni economici di tipo consequenziale, mancato guadagno, o perdite di profitto, di opportunità commerciali, di fatturato o di risparmi. Queste limitazioni si applicano complessivamente a IBM, alle relative consociate, subappaltatori e fornitori.
 
 b. I seguenti importi, non sono soggetti ai limiti sopra specificati: danni che non possono essere limitati dalla legge applicabile.
 
-c. IBM non avrà alcuna responsabilità per le pretese riguardanti Prodotti Non IBM, articoli non forniti da IBM o per qualsiasi violazione di legge o dei diritti di terze parti causati dal Contenuto o da materiali, progetti, specifiche del Licenziatario. I contenuti consistono di tutti i dati, i software e informazioni che il Licenziatario e i relativi utenti autorizzati forniscono, ne autorizzano l’accesso o immettono nel Programma IBM.
+c. IBM non avrà alcuna responsabilità per le pretese riguardanti Prodotti Non IBM, articoli non forniti da IBM o per qualsiasi violazione di legge o dei diritti di terze parti causati dal Contenuto o da materiali, progetti, specifiche del Licenziatario. I contenuti consistono di tutti i dati, i software e informazioni che il Licenziatario e i relativi utenti autorizzati forniscono, ne autorizzano l'accesso o immettono nel Programma IBM.
 
 5. Recesso
 
@@ -124,7 +124,7 @@ h. Il Licenziatario non può concedere in sublicenza, cedere o trasferire la lice
 
 i. Tutte le comunicazioni relative all'Accordo devono essere in forma scritta ed inviate all'indirizzo specificato nell'accordo con cui il Licenziatario ha acquistato le titolarità, a meno che una delle parti non indichi, per iscritto, un indirizzo differente. Le parti acconsentono all'utilizzo di strumenti elettronici, quali la posta elettronica e il telefax per le proprie comunicazioni. Eventuali riproduzioni delle condizioni dell'Accordo effettuate con mezzi affidabili saranno considerate equivalenti all'originale. Il presente Accordo sostituisce qualsiasi precedente trattativa, comunicazione verbale o scritta intercorsa tra le parti.
 
-j. Il presente Accordo o qualsiasi ordine regolato dallo stesso non creano alcun diritto o titolo per eventuali azioni da parte di un terzo. Nessuna delle parti intraprenderà un'azione legale derivante da, o relativa all’Accordo dopo che siano trascorsi più di 2 (due) anni da quando si è verificato l'evento che ha originato tale azione. Nessuna delle parti sarà ritenuta responsabile per inadempimenti dei propri obblighi, ad esclusione di quelli di natura monetaria, dovuti a cause di forza maggiore. Ciascuna parte deve concedere all'altra una ragionevole possibilità di adempiere alle proprie obbligazioni prima di agire per l'inadempimento.
+j. Il presente Accordo o qualsiasi ordine regolato dallo stesso non creano alcun diritto o titolo per eventuali azioni da parte di un terzo. Nessuna delle parti intraprenderà un'azione legale derivante da, o relativa all'Accordo dopo che siano trascorsi più di 2 (due) anni da quando si è verificato l'evento che ha originato tale azione. Nessuna delle parti sarà ritenuta responsabile per inadempimenti dei propri obblighi, ad esclusione di quelli di natura monetaria, dovuti a cause di forza maggiore. Ciascuna parte deve concedere all'altra una ragionevole possibilità di adempiere alle proprie obbligazioni prima di agire per l'inadempimento.
 
 k. IBM può utilizzare personale e risorse collocati in tutto il mondo, inclusi fornitori terzi, per il supporto alla fornitura dei Programmi e del supporto per il Programma. L'utilizzo dei Programmi da parte del Licenziatario può comportare il trasferimento di Contenuto, comprese le informazioni di identificazione personale, oltre i confini nazionali per fornire supporto al Programma come descritto nella Guida al Supporto Software IBM.
 
@@ -437,3 +437,4 @@ In Repubblica Ceca: Il Licenziatario accetta espressamente le condizioni del pre
 In Romania: Il Licenziatario accetta espressamente le seguenti clausole standard che possono essere considerate 'clausole insolite' in base alle disposizioni dell'articolo 1203 del Codice Civile Romeno: clausole 2, 4, 5, 8j. Il Licenziatario con la presente riconosce di essere stato sufficientemente informato di tutte le disposizioni del presente Accordo, incluse le clausole sopra riportate, di aver correttamente analizzato e compreso tali disposizioni e di aver avuto l'opportunità di negoziare le condizioni di ciascuna clausola.
 
 i125-5544-07 (10-2021)
+

@@ -1,22 +1,22 @@
 PODATKI O LICENCIRANJU
 
-Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno soglašata. Èe naroènik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za zgodnje izdaje programov (i125-5544-07).
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za zgodnje izdaje programov (i125-5544-07).
 
-Ime programa (Številka programa):
+Ime programa (©tevilka programa):
 IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
 
 Preizkusno obdobje
 
-Preizkusno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe in se izteèe dne 2022-12-01.
+Preizkusno obdobje se zaène na datum, na katerega imetnik licence poda svoje soglasje z doloèbami te pogodbe in se izteèe dne 2023-01-31.
 
 Spremenljiva koda drugega ponudnika
 
-Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot »spremenljivo kodo drugega ponudnika«, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni inženiring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence takšne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
+Èe v datoteki OBVESTILA IBM identificira kodo drugega ponudnika kot >>spremenljivo kodo drugega ponudnika<<, IBM pooblasti imetnika licence, da 1) spremeni spremenljivo kodo drugega ponudnika in 2) izvede obratni in¾eniring programskih modulov, ki se neposredno povezujejo s spremenljivo kodo drugega ponudnika, pod pogojem, da je samo za namen odpravljanja napak pri spremembah imetnika licence tak¹ne kode drugega ponudnika. IBM-ove obveznosti glede storitve in podpore, èe obstajajo, veljajo samo za nespremenjen program.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

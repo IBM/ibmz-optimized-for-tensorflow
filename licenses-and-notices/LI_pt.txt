@@ -9,14 +9,14 @@ Os termos padrão a seguir se aplicam o uso do Programa pelo Licenciado.
 
 Período de Teste
 
-O período de teste começa na data em que o Licenciado concorda com os termos deste Contrato/Acordo e termina em 2022-12-01.
+O período de teste começa na data em que o Licenciado concorda com os termos deste Contrato/Acordo e termina em 2023-01-31.
 
 Código Modificável de Terceiros
 
 Modificável de Terceiros", a IBM autorizará o Licenciado a 1) modificar o Código Modificável de Terceiros e 2) fazer engenharia reversa dos módulos do Programa que interagem diretamente com o Código Modificável de Terceiros, contanto que seja apenas com o propósito de depurar as modificações do Licenciado para tal código de terceiros. As obrigações de serviço e suporte da IBM, se houver, se aplicarão apenas ao Programa não modificado.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

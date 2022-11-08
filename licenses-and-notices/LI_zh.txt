@@ -9,14 +9,14 @@ IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 测试期限
 
-测试期限于被许可方同意本协议条款之日开始，于 2022-12-01 终止。
+测试期限于被许可方同意本协议条款之日开始，于 2023-01-31 终止。
 
 可修改的第三方代码
 
 在某种程度上，如果在"第三方声明"中，IBM 将第三方代码标识为"可修改第三方代码"，那么 IBM 授权被许可方 1) 修改可修改第三方代码，以及 2) 对直接与可修改第三方代码互动的程序模块进行反向工程设计，前提是其目的仅为了调试被许可方对此类第三方代码的修改。 IBM 的服务和支持义务（如有）仅适用于未经修改的程序。
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

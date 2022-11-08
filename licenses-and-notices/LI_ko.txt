@@ -9,14 +9,14 @@ IBM Z Optimized for TensorFlow 1.0 Tech Preview (Early Release)
 
 테스트 기간
 
-테스트 기간은 라이센스 사용자가 본 계약의 조항에 동의한 날에 시작되어 2022-12-01에 종료됩니다.
+테스트 기간은 라이센스 사용자가 본 계약의 조항에 동의한 날에 시작되어 2023-01-31에 종료됩니다.
 
 수정 가능한 제3자 코드
 
 주의사항 파일에서 제3자 코드를 "수정 가능한 제3자 코드"("Modifiable Third Party Code")로 명시하는 경우, IBM은 그러한 제3자 코드에 대한 라이센스 사용자의 수정사항을 디버그하기 위한 경우에 한하여 라이센스 사용자가 1) 수정 가능한 제3자 코드를 수정하고 2) 수정 가능한 제3자 코드와 직접 연관된 본 프로그램 모듈을 리버스 엔지니어하도록 허용합니다. IBM의 서비스 및 지원 의무(해당하는 경우)는 수정되지 않은 클라우드 프로그램에만 적용됩니다.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 

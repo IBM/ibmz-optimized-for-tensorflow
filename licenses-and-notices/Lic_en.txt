@@ -9,16 +9,16 @@ The following standard terms apply to Licensee's use of the Program.
 
 Test Period
 
-The test period begins on the date that Licensee agrees to the terms of this Agreement and ends on 2022-12-01.
+The test period begins on the date that Licensee agrees to the terms of this Agreement and ends on 2023-01-31.
 
 Modifiable Third Party Code
 
 To the extent, if any, in the NOTICES file IBM identifies third party code as "Modifiable Third Party Code," IBM authorizes Licensee to 1) modify the Modifiable Third Party Code and 2) reverse engineer the Program modules that directly interface with the Modifiable Third Party Code provided that it is only for the purpose of debugging Licensee's modifications to such third party code. IBM's service and support obligations, if any, apply only to the unmodified Program.
 
-L/N:  L-BMYR-CEPKAE
-D/N:  L-BMYR-CEPKAE
-P/N:  L-BMYR-CEPKAE
 
+L/N: L-BMYR-CEPKAE
+D/N: L-BMYR-CEPKAE
+P/N: L-BMYR-CEPKAE
 
 International License Agreement for Early Release of Programs
 
@@ -292,7 +292,7 @@ Section 4. Liability
 
 In paragraph a, in the first sentence insert the following before the words "the amounts paid":
 
-In Belgium, France, Germany, Italy, Luxembourg, Malta, Portugal, and Spain: the greater of €500,000 (five hundred thousand euro) or
+In Belgium, France, Germany, Italy, Luxembourg, Malta, Portugal, and Spain: the greater of ¤500,000 (five hundred thousand euro) or
 
 In Ireland and United Kingdom: 125% of
 
@@ -437,3 +437,4 @@ In Czech Republic: Licensee expressly accepts the terms of this agreement which 
 In Romania: The Licensee expressly accepts, the following standard clauses that may be deemed 'unusual clauses' as per the provisions of article 1203 Romanian Civil Code: clauses 2, 4, 5, 8j. The Licensee hereby acknowledges that it was sufficiently informed of all the provisions of this Agreement, including the clauses mentioned above, it properly analyzed and understood such provisions and had the opportunity to negotiate the terms of each clause.
 
 i125-5544-07 (10-2021)
+
