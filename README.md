@@ -1,4 +1,8 @@
-# IBM Z Optimized for TensorFlow Documentation
+# Deprecated
+
+- **Please visit [ibm-zdnn-plugin](https://github.com/IBM/ibm-zdnn-plugin).**
+
+# Deprecated - IBM Z Optimized for TensorFlow Documentation
 
 ## Table of Contents
 1. [Overview](#Overview)
